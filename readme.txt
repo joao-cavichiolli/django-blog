@@ -10,4 +10,7 @@ migrate:
 
 run:
 	python manage.py runserver
-rskrskr
+
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+rskrsk
