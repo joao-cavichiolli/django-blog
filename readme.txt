@@ -10,3 +10,6 @@ migrate:
 
 run:
 	python manage.py runserver
+
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	
